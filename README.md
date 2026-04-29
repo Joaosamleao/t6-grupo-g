@@ -1,7 +1,7 @@
 # T6 - Identificacao de Isomorfismo em Arvores
 
-Implementacao em **Java** da base inicial do Trabalho Pratico 6 da disciplina
-**Resolucao de Problemas com Grafos**.
+Implementação em **Java** do Trabalho Pratico 6 da disciplina
+**Resolucão de Problemas com Grafos**.
 
 ## Estrutura
 
@@ -53,4 +53,4 @@ java Main ../dados/invalid-ciclo3.txt ../dados/iso-path4-a.txt
 
 ## Video
 
-Link do video explicativo: PREENCHER
+Link do video explicativo: https://drive.google.com/file/d/19bhaTAUxTXmFNjZFQSwnm8BHEnHqfpjW/view?usp=sharing
