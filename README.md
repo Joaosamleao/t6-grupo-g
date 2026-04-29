@@ -32,7 +32,7 @@ T6/
     └── TreeIsomorphism.java
 ```
 
-## Compilacao
+## Compilacão
 
 No diretorio `src`, execute:
 
@@ -40,7 +40,7 @@ No diretorio `src`, execute:
 javac Main.java TreeIsomorphism.java Graph.java Bag.java Stack.java In.java StdIn.java StdOut.java
 ```
 
-## Execucao
+## Execucão
 
 Fixtures de teste:
 
