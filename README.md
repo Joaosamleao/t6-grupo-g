@@ -1,4 +1,4 @@
-# T6 - Identificacao de Isomorfismo em Arvores
+# T6 - Identificacao de Isomorfismo em Arvores - Grupo G
 
 Implementação em **Java** do Trabalho Pratico 6 da disciplina
 **Resolucão de Problemas com Grafos**.
